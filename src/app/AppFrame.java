@@ -33,7 +33,7 @@ public class AppFrame extends JFrame {
 	}
 
 	/**
-	 * Create the frame.
+	 * Create the frame..
 	 */
 	public AppFrame() {
 		/**
